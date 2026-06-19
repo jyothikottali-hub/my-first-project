@@ -1,2 +1,1 @@
-# my-first-project
-Learning AI &amp; ML
+# My First GitHub Project íº€
